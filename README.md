@@ -142,7 +142,7 @@ Flask Dashboard 顯示
 # 📸 成果展示
 
 ## YOLO 辨識結果
-
+![YOLO辨識結果](image/RESULT.jpg)
 ## Dashboard 網站畫面
 ![網站畫面1](image/flask01.png)
 ![網站畫面2](image/flask02.png)
