@@ -1,18 +1,2 @@
-dog:18
-bowl:3
-laptop:2
-chair:7
-person:12
-dining table:2
-bench:9
-cat:1
-cow:6
-bicycle:4
-cell phone:1
-sheep:2
-potted plant:1
-motorcycle:1
-remote:1
-train:1
-spoon:1
-sports ball:1
+bottle:38
+can:14
